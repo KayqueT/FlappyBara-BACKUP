@@ -1,4 +1,4 @@
-# 🐗 | FlappyBara
+# 🐗 | FlappyBara (Backup do projeto)
 
 > "Nas margens do Rio Capibaribe, uma lenda ganha vida..."
 
@@ -107,7 +107,8 @@ Você pode baixar o projeto de duas formas:
 Abra seu terminal e execute:
 ```bash
 # Clona o repositório para sua máquina
-git clone https://github.com/GabrielCCrispim/Projeto-IP.git
+git clone https://github.com/GabrielCCrispim/Projeto-IP.git or
+          https://github.com/KayqueT/FlappyBara.git
 
 # Entra na pasta do projeto
 cd Projeto-IP
